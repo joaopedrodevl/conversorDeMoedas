@@ -1,0 +1,20 @@
+[
+  {
+    "conversionRate": 5.4513,
+    "conversionResult": 5451.3,
+    "baseCode": "USD",
+    "targetCode": "BRL"
+  },
+  {
+    "conversionRate": 178.1676,
+    "conversionResult": 1781676.0,
+    "baseCode": "BRL",
+    "targetCode": "ARS"
+  },
+  {
+    "conversionRate": 6.0421,
+    "conversionResult": 604.21,
+    "baseCode": "EUR",
+    "targetCode": "BRL"
+  }
+]
